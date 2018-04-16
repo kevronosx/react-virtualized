@@ -332,7 +332,7 @@ export default class Table extends React.PureComponent {
   }
 
   componentDidUpdate() {
-    this._setScrollbarWidth();
+    // this._setScrollbarWidth();
   }
 
   render() {
